@@ -66,16 +66,16 @@
         });
         measureControl.addTo(map);
         var bounds_group = new L.featureGroup([]);
-        var googleStreets = L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
-            attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+        var googleStreets = L.tileLayer('http://www.google.cn/vt/lyrs=m@189&gl=cn&x={x}&y={y}&z={z}', {
+            attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
             maxZoom: 21
         })
-        var googleHybrid = L.tileLayer('http://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}', {
-            attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+        var googleHybrid = L.tileLayer('http://www.google.cn/vt/lyrs=s,h@189&gl=cn&x={x}&y={y}&z={z}', {
+            attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
             maxZoom: 21
         })
-        var googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
-            attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+        var googleSat = L.tileLayer('http://www.google.cn/vt/lyrs=s@189&gl=cn&x={x}&y={y}&z={z}', {
+            attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
             maxZoom: 21
         })
         googleStreets.addTo(map);
