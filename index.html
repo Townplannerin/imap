@@ -78,7 +78,6 @@
             attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
             maxZoom: 21
         })
-        map.addLayer(googleStreets);
         googleStreets.addTo(map);
         function setBounds() {
         }
@@ -137,6 +136,7 @@
             text: 'Search',
         });
         osmGeocoder.addTo(map);
+        map.addLayer(googleStreets);
         var baseMaps = {
             'Google Streets': googleStreets,
             'Google Hybrid': googleHybrid,
