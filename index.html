@@ -56,7 +56,7 @@
             zoomControl:true, maxZoom:21, minZoom:1
         }).fitBounds([[14.0471419861,76.1843008714],[14.0475410523,76.185065252]]);
         var hash = new L.Hash(map);
-        map.attributionControl.addAttribution('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a>');
+        map.attributionControl.addAttribution('<a href="" target="_blank"></a>');
         L.control.locate().addTo(map);
         var measureControl = new L.Control.Measure({
             primaryLengthUnit: 'meters',
@@ -79,6 +79,7 @@
             maxZoom: 21
         })
         map.addLayer(googleStreets);
+        googleStreets.addTo(map);
         function setBounds() {
         }
         function pop_SribayaluGanaptiTemple_0(feature, layer) {
