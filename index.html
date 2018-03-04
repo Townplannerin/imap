@@ -67,11 +67,22 @@
         });
         measureControl.addTo(map);
         var bounds_group = new L.featureGroup([]);
-        var basemap0 = L.tileLayer('http://www.google.com/maps/vt?lyrs=s,h@189&gl=com&x={x}&y={y}&z={z}', {
+        var GoogleStreet =
+          L.tileLayer('http://www.google.com/maps/vt?lyrs=m@189&gl=com&x={x}&y={y}&z={z}', {
             attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
             maxZoom: 21
-        });
-        basemap0.addTo(map);
+          })
+        var GoogleSatellite =
+          L.tileLayer('http://www.google.com/maps/vt?lyrs=s@189&gl=com&x={x}&y={y}&z={z}', {
+            attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
+            maxZoom: 21
+          })
+        var GoogleHybrid =
+          L.tileLayer('http://www.google.com/maps/vt?lyrs=s,h@189&gl=com&x={x}&y={y}&z={z}', {
+            attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
+            maxZoom: 21
+          })
+        map.addLayer(GoogleStreet);
         function setBounds() {
         }
         function pop_SribayaluGanaptiTemple_0(feature, layer) {
@@ -136,7 +147,10 @@
          });
                                                 
         map.addLayer(kmlLayer);
-        var baseMaps = {};
+        var baseMaps = {'GoogleStreet': GoogleStreet,
+            'GoogleSatellite': GoogleSatellite,
+            'GoogleHybrid': GoogleHybrid
+        };
         L.control.layers(baseMaps,{'<img src="legend/SribayaluGanaptiTemple_0.png" /> Sri bayalu Ganapti Temple': layer_SribayaluGanaptiTemple_0,},{collapsed:false}).addTo(map);
         setBounds();
         </script>
