@@ -78,6 +78,7 @@
             attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
             maxZoom: 21
         });
+        googleStreets.addTo(map);
         function setBounds() {
         }
         function pop_SribayaluGanaptiTemple_0(feature, layer) {
@@ -135,7 +136,6 @@
             text: 'Search',
         });
         osmGeocoder.addTo(map);
-        map.addLayer(googleStreets);
         var baseMaps = {
             'Google Streets': googleStreets,
             'Google Hybrid': googleHybrid,
