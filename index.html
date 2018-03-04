@@ -66,11 +66,19 @@
         });
         measureControl.addTo(map);
         var bounds_group = new L.featureGroup([]);
-        var basemap0 = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        var googleStreets = L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
             attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
             maxZoom: 21
-        });
-        basemap0.addTo(map);
+        })
+        var googleHybrid = L.tileLayer('http://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}', {
+            attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+            maxZoom: 21
+        })
+        var googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+            attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+            maxZoom: 21
+        })
+        map.addLayer(googleStreets);
         function setBounds() {
         }
         function pop_SribayaluGanaptiTemple_0(feature, layer) {
@@ -128,8 +136,12 @@
             text: 'Search',
         });
         osmGeocoder.addTo(map);
-        var baseMaps = {};
-        L.control.layers(baseMaps,{'<img src="legend/SribayaluGanaptiTemple_0.png" /> Sri bayalu Ganapti Temple': layer_SribayaluGanaptiTemple_0,},{collapsed:false}).addTo(map);
+        var baseMaps = {
+            'Google Streets': googleStreets,
+            'Google Hybrid': googleHybrid,
+            'Google Satllite': googleSat
+        };
+        var layerControl = L.control.layers(baseMaps,{'<img src="legend/SribayaluGanaptiTemple_0.png" /> Sri bayalu Ganapti Temple': layer_SribayaluGanaptiTemple_0,},{collapsed:false}).addTo(map);
         setBounds();
         </script>
     </body>
