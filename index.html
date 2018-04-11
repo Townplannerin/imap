@@ -135,7 +135,7 @@
         bounds_group.addLayer(layer_SribayaluGanaptiTemple_0);
         map.addLayer(layer_SribayaluGanaptiTemple_0);
         var osmGeocoder = new L.Control.OSMGeocoder({
-            collapsed: false,
+            collapsed: true,
             position: 'topright',
             text: 'Search',
         });
@@ -151,7 +151,7 @@
             'GoogleSatellite': GoogleSatellite,
             'GoogleHybrid': GoogleHybrid
         };
-        L.control.layers(baseMaps,{'<img src="legend/SribayaluGanaptiTemple_0.png" /> Sri bayalu Ganapti Temple': layer_SribayaluGanaptiTemple_0,},{collapsed:false}).addTo(map);
+        L.control.layers(baseMaps,{'<img src="legend/SribayaluGanaptiTemple_0.png" /> Sri bayalu Ganapti Temple': layer_SribayaluGanaptiTemple_0,},{collapsed:true}).addTo(map);
         setBounds();
         </script>
     </body>
