@@ -1,0 +1,1938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SITE</name>
+    <Style id="poly-097138-2001-69-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>45387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-2001-69-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>3.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>45387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-2001-69">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-2001-69-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-2001-69-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF0000-2101-89-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2.101</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>590000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FF0000-2101-89-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3.1515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>590000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FF0000-2101-89">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF0000-2101-89-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF0000-2101-89-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFF8D-3301-94-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.301</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFFF8D-3301-94-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>4.9515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFFF8D-3301-94">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFF8D-3301-94-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFF8D-3301-94-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFF8D-3501-92-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.501</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFFF8D-3501-92-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>5.2515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFFF8D-3501-92">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFF8D-3501-92-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFF8D-3501-92-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFF8D-3501-94-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.501</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFFF8D-3501-94-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>5.2515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFFF8D-3501-94">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFF8D-3501-94-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFF8D-3501-94-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFF8D-3601-92-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.601</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFFF8D-3601-92-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>5.4015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFFF8D-3601-92">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFF8D-3601-92-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFF8D-3601-92-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFF8D-3601-94-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.601</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFFF8D-3601-94-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>5.4015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFFF8D-3601-94">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFF8D-3601-94-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFF8D-3601-94-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFF8D-3701-92-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.701</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFFF8D-3701-92-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>5.5515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFFF8D-3701-92">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFF8D-3701-92-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFF8D-3701-92-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFF8D-3701-94-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.701</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFFF8D-3701-94-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>5.5515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFFF8D-3701-94">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFF8D-3701-94-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFF8D-3701-94-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 1<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3301-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>1</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.66837,14.323793,0
+              76.668304,14.323764,0
+              76.668301,14.323763,0
+              76.668299,14.323761,0
+              76.668298,14.323759,0
+              76.668297,14.323757,0
+              76.668297,14.323756,0
+              76.668297,14.323754,0
+              76.668297,14.323752,0
+              76.668339,14.323665,0
+              76.668415,14.323699,0
+              76.66837,14.323793,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 2<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3501-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>2</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668415,14.323699,0
+              76.668339,14.323665,0
+              76.668385,14.323571,0
+              76.668461,14.323604,0
+              76.668415,14.323699,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 3<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3501-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>3</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668461,14.323604,0
+              76.668385,14.323571,0
+              76.66843,14.323476,0
+              76.668506,14.32351,0
+              76.668461,14.323604,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 4<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3501-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>4</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668506,14.32351,0
+              76.66843,14.323476,0
+              76.668476,14.323382,0
+              76.668552,14.323416,0
+              76.668506,14.32351,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 5<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>5</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668552,14.323416,0
+              76.668476,14.323382,0
+              76.668521,14.323287,0
+              76.668597,14.323321,0
+              76.668552,14.323416,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 6<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>6</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668597,14.323321,0
+              76.668521,14.323287,0
+              76.668567,14.323193,0
+              76.668643,14.323226,0
+              76.668597,14.323321,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 7<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3701-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>7</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668643,14.323226,0
+              76.668567,14.323193,0
+              76.668607,14.323112,0
+              76.668608,14.32311,0
+              76.66861,14.323108,0
+              76.668612,14.323107,0
+              76.668613,14.323107,0
+              76.668616,14.323107,0
+              76.668618,14.323107,0
+              76.668621,14.323108,0
+              76.668686,14.323137,0
+              76.668643,14.323226,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 8<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3701-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>8</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668116,14.323682,0
+              76.66815,14.323611,0
+              76.668252,14.323656,0
+              76.66822,14.32372,0
+              76.668218,14.323722,0
+              76.668216,14.323723,0
+              76.668215,14.323723,0
+              76.668213,14.323724,0
+              76.668211,14.323723,0
+              76.668209,14.323723,0
+              76.668116,14.323682,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 25<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3701-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>25</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.66815,14.323611,0
+              76.668116,14.323682,0
+              76.668026,14.323643,0
+              76.668023,14.323641,0
+              76.66802,14.32364,0
+              76.668019,14.323638,0
+              76.668018,14.323636,0
+              76.668017,14.323633,0
+              76.668018,14.323631,0
+              76.668019,14.323629,0
+              76.668049,14.323567,0
+              76.66815,14.323611,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 9<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>9</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.66815,14.323611,0
+              76.668184,14.32354,0
+              76.668286,14.323585,0
+              76.668252,14.323656,0
+              76.66815,14.323611,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 10<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>10</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668184,14.32354,0
+              76.668219,14.32347,0
+              76.66832,14.323514,0
+              76.668286,14.323585,0
+              76.668184,14.32354,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 11<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>11</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668219,14.32347,0
+              76.668253,14.323399,0
+              76.668354,14.323443,0
+              76.66832,14.323514,0
+              76.668219,14.32347,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 12<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>12</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668253,14.323399,0
+              76.668287,14.323328,0
+              76.668388,14.323372,0
+              76.668354,14.323443,0
+              76.668253,14.323399,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 13<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>13</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668287,14.323328,0
+              76.668321,14.323257,0
+              76.668423,14.323301,0
+              76.668388,14.323372,0
+              76.668287,14.323328,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 14<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>14</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668321,14.323257,0
+              76.668356,14.323186,0
+              76.668457,14.323231,0
+              76.668423,14.323301,0
+              76.668321,14.323257,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 15<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3701-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>15</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668356,14.323186,0
+              76.66839,14.323115,0
+              76.668491,14.323159,0
+              76.668457,14.323231,0
+              76.668356,14.323186,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 18<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3501-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>18</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.66839,14.323115,0
+              76.668356,14.323186,0
+              76.668255,14.323141,0
+              76.668289,14.323071,0
+              76.66839,14.323115,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 19<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>19</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668356,14.323186,0
+              76.668321,14.323257,0
+              76.66822,14.323212,0
+              76.668255,14.323141,0
+              76.668356,14.323186,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 20<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3501-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>20</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668287,14.323328,0
+              76.668186,14.323283,0
+              76.66822,14.323212,0
+              76.668321,14.323257,0
+              76.668287,14.323328,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 21<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>21</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668287,14.323328,0
+              76.668253,14.323399,0
+              76.668152,14.323354,0
+              76.668186,14.323283,0
+              76.668287,14.323328,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 22<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3701-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>22</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668253,14.323399,0
+              76.668219,14.32347,0
+              76.668117,14.323425,0
+              76.668152,14.323354,0
+              76.668253,14.323399,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 23<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>23</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668219,14.32347,0
+              76.668184,14.32354,0
+              76.668083,14.323496,0
+              76.668117,14.323425,0
+              76.668219,14.32347,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 24<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3601-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>24</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668083,14.323496,0
+              76.668184,14.32354,0
+              76.66815,14.323611,0
+              76.668049,14.323567,0
+              76.668083,14.323496,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 17<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3501-94</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>17</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668289,14.323071,0
+              76.668328,14.322989,0
+              76.668331,14.322986,0
+              76.668333,14.322985,0
+              76.668335,14.322984,0
+              76.668338,14.322984,0
+              76.66834,14.322984,0
+              76.668342,14.322985,0
+              76.668346,14.322987,0
+              76.668433,14.323026,0
+              76.66839,14.323115,0
+              76.668289,14.323071,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: 16<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FFFF8D-3701-92</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>16</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.668433,14.323026,0
+              76.668526,14.323066,0
+              76.668528,14.323068,0
+              76.668529,14.323069,0
+              76.66853,14.32307,0
+              76.668531,14.323071,0
+              76.668531,14.323073,0
+              76.668532,14.323075,0
+              76.668531,14.323077,0
+              76.66853,14.323079,0
+              76.668491,14.323159,0
+              76.66839,14.323115,0
+              76.668433,14.323026,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: PARK<br>DIMENSION: ]]></description>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>PARK</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: PARK<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-097138-2001-69</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>PARK</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.667144,14.324037,0
+              76.667417,14.323475,0
+              76.667419,14.323472,0
+              76.667421,14.32347,0
+              76.667422,14.323469,0
+              76.667424,14.323469,0
+              76.667426,14.323469,0
+              76.667428,14.323469,0
+              76.667432,14.323469,0
+              76.668335,14.323863,0
+              76.668062,14.324426,0
+              76.667144,14.324037,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[DISTRICT: <br>TALUK: <br>HOBLI: <br>GRAMA: <br>R.SY.No: <br>Extent: <br>NOC Purpose: <br>NOC given date: <br>Land Conversion Date: <br>LAYOUT APPROVED DATE : <br>SITE No: CA<br>DIMENSION: ]]></description>
+      <styleUrl>#poly-FF0000-2101-89</styleUrl>
+      <ExtendedData>
+        <Data name="DISTRICT">
+          <value/>
+        </Data>
+        <Data name="TALUK">
+          <value/>
+        </Data>
+        <Data name="HOBLI">
+          <value/>
+        </Data>
+        <Data name="GRAMA">
+          <value/>
+        </Data>
+        <Data name="R.SY.No">
+          <value/>
+        </Data>
+        <Data name="Extent">
+          <value/>
+        </Data>
+        <Data name="NOC Purpose">
+          <value/>
+        </Data>
+        <Data name="NOC given date">
+          <value/>
+        </Data>
+        <Data name="Land Conversion Date">
+          <value/>
+        </Data>
+        <Data name="LAYOUT APPROVED DATE ">
+          <value/>
+        </Data>
+        <Data name="SITE No">
+          <value>CA</value>
+        </Data>
+        <Data name="DIMENSION">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              76.667041,14.323994,0
+              76.66666,14.323829,0
+              76.666934,14.323266,0
+              76.666936,14.323263,0
+              76.666937,14.323262,0
+              76.666939,14.32326,0
+              76.666941,14.323259,0
+              76.666943,14.323259,0
+              76.666945,14.323259,0
+              76.666946,14.323259,0
+              76.666947,14.323259,0
+              76.666949,14.32326,0
+              76.667315,14.323419,0
+              76.667316,14.323421,0
+              76.667317,14.323423,0
+              76.667317,14.323424,0
+              76.667317,14.323427,0
+              76.667316,14.323429,0
+              76.667041,14.323994,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
