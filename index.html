@@ -8,6 +8,7 @@
         <meta name="apple-mobile-web-app-capable" content="yes">
         <link rel="stylesheet" href="css/leaflet.css">
         <link rel="stylesheet" href="css/qgis2web.css">
+        <link rel="stylesheet" href="css/leaflet-measure.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.66.0/L.Control.Locate.min.css" />
         <style>
         html, body, #map {
@@ -26,6 +27,7 @@
         <script src="css/Autolinker.min.js"></script>      
         <script src="css/leaflet.js"></script>
         <script src="css/leaflet-hash.js"></script>
+        <script src="css/leaflet-measure.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.66.0/L.Control.Locate.min.js"></script>
         <script src="css/KML.js"></script>
         <script src="css/SribayaluGanaptiTemple_0.js"></script>
@@ -133,6 +135,13 @@
         title: "Show me where I am"
     }
 }).addTo(map);
+            var measureControl = new L.Control.Measure({
+            primaryLengthUnit: 'meters',
+            secondaryLengthUnit: 'kilometers',
+            primaryAreaUnit: 'sqmeters',
+            secondaryAreaUnit: 'hectares'
+        });
+        measureControl.addTo(map);
         var baseMaps = {'GoogleStreet': GoogleStreet,
             'GoogleSatellite': GoogleSatellite,
             'GoogleHybrid': GoogleHybrid
