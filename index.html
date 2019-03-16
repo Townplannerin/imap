@@ -66,9 +66,9 @@
             maxZoom: 16
           })
         var GoogleHybrid =
-          L.tileLayer('http://www.google.com/maps/vt?lyrs=s,h@189&gl=com&x={x}&y={y}&z={z}', {
+          L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
             attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
-            maxZoom: 21
+            maxZoom: 16
           })
         map.addLayer(GoogleStreet);
         function setBounds() {
