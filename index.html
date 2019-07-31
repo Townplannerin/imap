@@ -63,12 +63,12 @@
         var GoogleSatellite =
           L.tileLayer('http://www.google.com/maps/vt?lyrs=s@189&gl=com&x={x}&y={y}&z={z}', {
             attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
-            maxZoom: 16
+            maxZoom: 21
           })
         var GoogleHybrid =
           L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
             attribution: 'Imagery © <a href="http://maps.google.com">Google</a>',
-            maxZoom: 16
+            maxZoom: 21
           })
         map.addLayer(GoogleStreet);
         function setBounds() {
